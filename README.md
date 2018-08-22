@@ -67,10 +67,10 @@ The placing of a camera on the lane adjecent to the active lane is not always po
 
 A vertical number is highly readable only when no riders are immediately adjacent however in a dense group horizontal numbers retain better overall readability.
 
-#### Horizontal on pocket edge.
+
 ![5](5.png)
 
-#### Horizontal on pocket edge.
+
 ![6](6.png)
 
 
