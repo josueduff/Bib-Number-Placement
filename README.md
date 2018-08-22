@@ -94,4 +94,4 @@ Provided that the density of the rider's group is medium to low (discretion requ
 ---
 #### Final notes.
 Effortlessly enforcing the homologous placing of bib numbers on 50 to 100+ riders is made possible by taking advantage of common and well understood jersey features, along with adopting and practicing standarization of placement.  
-This investigation could conclude that vertical or horizontal number palcement has less of difference with regards to readability than attaching them consistently on the side-most section of the pocket area.
+This investigation could conclude that vertical or horizontal number placement has less of difference with regards to readability than attaching them consistently on the side-most section of the pocket area.
