@@ -23,7 +23,7 @@ Green and red borders indicate near and far subjects respectively.
 
 A *number* is a group of digits on a single piece of material.
 
-A *vertical number* is defined by a top-to-bottom layout, whilst a *horizontal number* is when the numbers are layed out left-to-right. Both are determined when the cyclist is standing and with the observer's vision level with the horizon.
+A *vertical number* is defined by a top-to-bottom layout, whilst a *horizontal number* is when the digits are layed out left-to-right. Both are determined when the cyclist is standing and with the observer's vision level with the horizon.
 
 ## Diagrams.
 ### Finish line cross-section.
