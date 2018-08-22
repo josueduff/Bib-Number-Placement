@@ -27,7 +27,7 @@ A *vertical number* is defined by a top-to-bottom layout, whilst a *horizontal n
 
 ## Diagrams.
 ### Finish line cross-section.
-If the camera was lower than 3.5 meters, the second rider from the right could have a partially occulted number.
+If the camera was lower than 3.5 meters, the rider on the right could have a partially occulted number.
 ![camera](diagram.png)
 
 ### Number placement.
